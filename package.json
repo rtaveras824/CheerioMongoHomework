@@ -1,0 +1,29 @@
+{
+  "name": "ws_wbsrpr",
+  "version": "1.0.0",
+  "description": "You want a description? You got it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtaveras824/CheerioMongoHomework.git"
+  },
+  "author": "ee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtaveras824/CheerioMongoHomework/issues"
+  },
+  "homepage": "https://github.com/rtaveras824/CheerioMongoHomework#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "moment": "^2.15.2",
+    "mongoose": "^4.6.6",
+    "morgan": "^1.7.0",
+    "request": "^2.78.0"
+  }
+}
